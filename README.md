@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de ADS e estou construindo minha base em programação com foco em **aprendizado contínuo e prática real**.  
+Sou estudante de ADS e estou construindo uma base sólida em programação, com foco em **aprendizado contínuo e prática real**.  
 Utilizo o GitHub para organizar meus estudos, acompanhar minha evolução e desenvolver disciplina no dia a dia como desenvolvedor.
 
 Atualmente estou revisando fundamentos de Python através de exercícios organizados por aulas.
