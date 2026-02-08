@@ -21,7 +21,9 @@ Atualmente estou revisando fundamentos de Python através de exercícios organiz
 - Python  
 - Lógica de Programação  
 - Git e GitHub  
-- Algoritmos e Estruturas Básicas  
+- Algoritmos e Estruturas Básicas
+- MySQL
+- Análise de Dados
 
 ---
 
